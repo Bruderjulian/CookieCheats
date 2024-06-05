@@ -19,4 +19,3 @@ var cheats = {
     if (cheats.intervalShimmer) clearInterval(cheats.intervalShimmer);
   },
 };
-f
